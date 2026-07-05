@@ -9,15 +9,23 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/amlanpatnaik-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:amlanpatnaik001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://amlanpatnaik.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amlanpatnaik-/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:amlanpatnaik001@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="52"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/amlanpatnaik001">
+    <img src="https://skillicons.dev/icons?i=github" height="52"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://amlanpatnaik.vercel.app">
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="52"/>
+  </a>
+</p>
 
 <br><br>
 
