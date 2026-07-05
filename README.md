@@ -62,10 +62,11 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=esri&logoColor=white"/>
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white"/>
 </p>
 
 ---
