@@ -1,20 +1,16 @@
-<div align="center">
-
-# Hi 👋 I'm Amlan Patnaik
-
-### 🛰 Telecom & GIS Engineer • Full Stack Developer • Power BI Enthusiast
 
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0A192F&height=180&section=header&text=Amlan%20Patnaik&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:0F172A&height=180&section=header&text=Amlan%20Patnaik&fontSize=42&fontColor=e9d5ff&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Telecom+%26+GIS+Engineer;Building+Modern+Web+Applications;Power+BI+%7C+Python+%7C+SQL;React+%7C+Node.js+%7C+MongoDB;Always+Learning.+Always+Building."/>
+
 
 <br>
 
 <a href="https://www.linkedin.com/in/amlanpatnaik-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkaedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:amlanpatnaik001@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -53,7 +49,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Arsenal
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,postman,figma,npm"/>
