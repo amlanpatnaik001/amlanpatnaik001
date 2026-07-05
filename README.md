@@ -1,99 +1,96 @@
 <div align="center">
 
-# Hi 👋, I'm Amlan Patnaik
+# Hi 👋 I'm Amlan Patnaik
 
-### 🚀 Telecom & GIS Engineer | MERN Stack Learner | Tech Enthusiast
+### 🛰 Telecom & GIS Engineer • Full Stack Developer • Power BI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Telecom+%26+GIS+Engineer;MERN+Stack+Developer+in+Progress;Power+BI+%7C+SQL+%7C+Python;Always+Learning+Something+New" />
+</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:0A192F&height=180&section=header&text=Amlan%20Patnaik&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Telecom+%26+GIS+Engineer;Building+Modern+Web+Applications;Power+BI+%7C+Python+%7C+SQL;React+%7C+Node.js+%7C+MongoDB;Always+Learning.+Always+Building."/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/amlanpatnaik-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkaedin&logoColor=white"/>
+</a>
+<a href="mailto:amlanpatnaik001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://amlanpatnaik.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=amlanpatnaik001&style=for-the-badge&color=0e75b6)
 
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-- 🛰️ Junior Telecom Engineer
-- 🌍 Working with Telecom & GIS Projects
-- 💻 Learning Full Stack Development (MERN)
-- 📊 Skilled in Power BI, SQL & Python
-- 🗺️ GIS Tools: ArcGIS, QGIS, AutoCAD & Google Earth Pro
-- 🌱 Currently exploring React, Node.js & MongoDB
-- ⚡ Fun Fact: I love building projects and creating tech content.
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
+- 🛰 **Telecom & GIS Engineer** with hands-on experience in Telecom Infrastructure, GIS Mapping, AutoCAD, ArcGIS, QGIS & FTTX Permit Design.
+- 💻 Passionate about building modern **Full Stack (MERN)** applications.
+- 📊 Skilled in **Power BI, SQL & Python** for analytics and automation.
+- 🚀 Building real-world projects while continuously improving my development skills.
+- ☕ Coffee fuels my code. Curiosity fuels my growth.
+
+> **"Engineering telecom networks today. Building modern web experiences for tomorrow."**
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Analytics
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://amlanpatnaik.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amlanpatnaik001&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,postman,figma,npm"/>
+</p>
 
-### 🛰️ GIS & Telecom
-
-- ArcGIS
-- QGIS
-- AutoCAD
-- Google Earth Pro
-- Telecom Design
-- FTTX Permit
-- Digitization
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=amlanpatnaik001&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=amlanpatnaik001&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amlanpatnaik001&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
 
-⭐ **Personal Portfolio**
+## 📊 Contribution Graph
 
-🌐 https://amlanpatnaik.vercel.app
-
----
-
-📊 **Netflix Insights Dashboard**
-
-Power BI Dashboard with interactive visualizations.
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amlanpatnaik001&theme=tokyo-night)](https://github.com/amlanpatnaik001)
 
 ---
 
-🌦️ **Weather Dashboard**
 
-Real-time Weather Dashboard using API.
+## 🐍 Contribution Snake
 
----
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=amlanpatnaik001&theme=algolia&no-frame=true&margin-w=15)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=amlanpatnaik001&color=0e75b6)
+<p align="center">
+<img src="https://raw.githubusercontent.com/amlanpatnaik001/amlanpatnaik001/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Building technology that connects engineering, GIS, data, and modern web development."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:00C4FF&height=120&section=footer"/>
 
 </div>
