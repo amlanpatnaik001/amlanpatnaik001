@@ -1,178 +1,99 @@
-## 👨‍💻 About Me
-
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ba.gif">
-
-```yaml
-name: Amlan Patnaik
-role: Telecom & GIS Engineer
-location: India 🇮🇳
-
-currently:
-  - Learning Full Stack Development (MERN)
-  - Building React + Node projects
-  - Sharpening backend & API skills
-  - Exploring Open Source
-
-interests:
-  - Telecom Engineering
-  - GIS Mapping & Spatial Analysis
-  - Web Development
-  - Power BI Dashboards
-
-fun_fact: "I map networks by day, ship code by night 🌙"
-```
-
-<br clear="both">
-
-## ⚡ Tech Arsenal
-
 <div align="center">
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+# Hi 👋, I'm Amlan Patnaik
 
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+### 🚀 Telecom & GIS Engineer | MERN Stack Learner | Tech Enthusiast
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**GIS & Telecom**
-<br>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=for-the-badge&logo=googleearth&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Telecom+%26+GIS+Engineer;MERN+Stack+Developer+in+Progress;Power+BI+%7C+SQL+%7C+Python;Always+Learning+Something+New" />
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🛰️ Junior Telecom Engineer
+- 🌍 Working with Telecom & GIS Projects
+- 💻 Learning Full Stack Development (MERN)
+- 📊 Skilled in Power BI, SQL & Python
+- 🗺️ GIS Tools: ArcGIS, QGIS, AutoCAD & Google Earth Pro
+- 🌱 Currently exploring React, Node.js & MongoDB
+- ⚡ Fun Fact: I love building projects and creating tech content.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://amlanpatnaik.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,figma" />
+
+### 🛰️ GIS & Telecom
+
+- ArcGIS
+- QGIS
+- AutoCAD
+- Google Earth Pro
+- Telecom Design
+- FTTX Permit
+- Digitization
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=amlanpatnaik001&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=amlanpatnaik001&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amlanpatnaik001&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+⭐ **Personal Portfolio**
 
-<a href="https://amlanpatnaik.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amlanpatnaik001&repo=PORTFOLIO_V2&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/amlanpatnaik001">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amlanpatnaik001&repo=Netflix-Dashboard&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/amlanpatnaik001">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amlanpatnaik001&repo=Weather-Dashboard&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+🌐 https://amlanpatnaik.vercel.app
 
 ---
 
-## 📈 GitHub Analytics
+📊 **Netflix Insights Dashboard**
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amlanpatnaik001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlanpatnaik001&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=amlanpatnaik001&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amlanpatnaik001&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+Power BI Dashboard with interactive visualizations.
 
 ---
 
-## 🐍 Contribution Snake
+🌦️ **Weather Dashboard**
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/amlanpatnaik001/amlanpatnaik001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-> ⚠️ This snake animates your real contribution graph, but it needs a one-time GitHub Action setup — see the note below the trophies section.
+Real-time Weather Dashboard using API.
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amlanpatnaik001&theme=algolia&no-frame=true&margin-w=15&row=1&column=7"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=amlanpatnaik001&theme=algolia&no-frame=true&margin-w=15)
 
 ---
 
-### ⚙️ One-time setup for the Snake Animation
+## 👀 Profile Views
 
-The snake game above animates itself from your real contribution graph, but GitHub needs a small Action to generate it:
-
-1. In your `amlanpatnaik001/amlanpatnaik001` repo, go to **Actions → New workflow → set up a workflow yourself**.
-2. Name the file `snake.yml` and paste:
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: amlanpatnaik001
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit it. Within a few minutes the `output` branch will contain your animated snake SVG, and the image in this README will start rendering it automatically.
-
----
-
-## 🌱 Currently Exploring
-
-- ⚛️ React.js & advanced hooks
-- 🌐 Node.js & Express APIs
-- 🍃 MongoDB & data modeling
-- 🔐 Auth & JWT
-- ☁️ Deployment (Vercel & Render)
-- 📦 REST API design
-
----
-
-## 💭 Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+![](https://komarev.com/ghpvc/?username=amlanpatnaik001&color=0e75b6)
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5AF9,100:00C4FF&height=150&section=footer"/>
 
-### ⭐ Thanks for visiting — if my projects helped you, a star means a lot!
+### ⭐ Thanks for visiting my profile!
 
-**Happy Coding 🚀**
+*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
