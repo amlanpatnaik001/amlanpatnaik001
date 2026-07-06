@@ -36,7 +36,7 @@
 ---
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" hspace="20" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">- 🛰 **Telecom & GIS Engineer** with hands-on experience in Telecom Infrastructure, GIS Mapping, AutoCAD, ArcGIS, QGIS & FTTX Permit Design.
+<img align="right" alt="Coding" hspace="20" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">- 🛰 **Telecom & GIS Engineer** with hands-on experience in Telecom Infrastructure, GIS Mapping, AutoCAD, ArcGIS, QGIS & FTTX Permit Design.
 - 💻 Passionate about building modern **Full Stack (MERN)** applications.
 - 📊 Skilled in **Power BI, SQL & Python** for analytics and automation.
 - 🚀 Building real-world projects while continuously improving my development skills.
